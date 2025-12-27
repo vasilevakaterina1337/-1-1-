@@ -4,6 +4,7 @@
 #include <iostream>
 #include <typeinfo>
 #include <string>  
+#include "kursach.h"
 using namespace std;
 
 void lab1() {
